@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">How Do You Feel?</string>
+    <string name="edit_message">Enter a medication</string>
+    <string name="button_send">Search</string>
+    <string name="medicineActivity">Which medication are you concerned about?</string>
+    <string name="sideEffectActivity">Click on your side effects</string>
+</resources>

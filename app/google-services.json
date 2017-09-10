@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "381894239970",
+    "firebase_url": "https://how-are-you-feeling-15579.firebaseio.com",
+    "project_id": "how-are-you-feeling-15579",
+    "storage_bucket": "how-are-you-feeling-15579.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381894239970:android:f363407d1d70e5c1",
+        "android_client_info": {
+          "package_name": "com.example.myfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381894239970-lmt31vqnerf9g6mu668c536663e1dt1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myfirstapp",
+            "certificate_hash": "831401f6bd117efb8a03059bc02153bd4c43602e"
+          }
+        },
+        {
+          "client_id": "381894239970-ffa4gaef94t00kldqgeugujmu19jl4bi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myfirstapp",
+            "certificate_hash": "3bf8b6f7445d7e212c7f4ab821572daf53048142"
+          }
+        },
+        {
+          "client_id": "381894239970-o28su4t71cc4snkh9hs8f0q4jkoh66b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwCpByFWQvgjepngnSKwBjszMDwOPUJzM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381894239970-o28su4t71cc4snkh9hs8f0q4jkoh66b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381894239970:android:5920de3503a2d18c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381894239970-48r7d0c2n9r3m8d3gofie81dr71ue902.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.fcm",
+            "certificate_hash": "3bf8b6f7445d7e212c7f4ab821572daf53048142"
+          }
+        },
+        {
+          "client_id": "381894239970-o28su4t71cc4snkh9hs8f0q4jkoh66b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwCpByFWQvgjepngnSKwBjszMDwOPUJzM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381894239970-o28su4t71cc4snkh9hs8f0q4jkoh66b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
